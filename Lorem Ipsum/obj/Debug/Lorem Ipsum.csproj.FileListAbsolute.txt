@@ -77,7 +77,6 @@ E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\Microsoft.Owin.Security.OAut
 E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\Microsoft.Owin.Security.Google.xml
 E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\obj\Debug\Lorem Ipsum.csprojResolveAssemblyReference.cache
 E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\obj\Debug\Lorem Ipsum.dll
 E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\obj\Debug\Lorem Ipsum.pdb
 E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\roslyn\csc.exe.config
@@ -95,3 +94,6 @@ E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\roslyn\System.IO.FileSystem.
 E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\roslyn\System.IO.FileSystem.Primitives.dll
 E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\roslyn\vbc.exe.config
 E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\roslyn\vbc.rsp
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\obj\Debug\Lorem Ipsum.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\Elmah.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum\bin\Elmah.Mvc.dll
