@@ -1,0 +1,57 @@
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\ApplicationInsights.config
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\csc.exe
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\vbc.exe
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Lorem Ipsum.Tests.dll.config
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Lorem Ipsum.Tests.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Lorem Ipsum.Tests.pdb
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Lorem Ipsum.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.Razor.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Owin.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\EntityFramework.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Lorem Ipsum.pdb
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.Razor.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\EntityFramework.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\obj\Debug\Lorem Ipsum.Tests.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\obj\Debug\Lorem Ipsum.Tests.dll
+E:\Programming\Projects\Lorem-Ipsum\Lorem Ipsum.Tests\obj\Debug\Lorem Ipsum.Tests.pdb
